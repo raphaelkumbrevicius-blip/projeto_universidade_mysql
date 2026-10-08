@@ -18,6 +18,9 @@ Demonstrar o ciclo completo de um projeto de dados: modelagem conceitual, lógic
 **Modelo conceitual**
 ![Modelo conceitual](modelos/modelo_conceitual.png)
 
+**Modelo logico**
+![Modelo logico](modelos/modelo_conceitual.png)
+
 **Modelo físico**
 ![Modelo físico](modelos/modelo_fisico.png)
 
