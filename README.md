@@ -16,13 +16,13 @@ Demonstrar o ciclo completo de um projeto de dados: modelagem conceitual, lógic
 ## Modelo de dados
 
 **Modelo conceitual**
-![Modelo conceitual](modelos/modelo_conceitual.png)
+![Modelo conceitual](modelosconceituallogicofisico/ModelagemConceitual.png)
 
 **Modelo logico**
-![Modelo logico](modelos/modelo_conceitual.png)
+![Modelo logico](modelosconceituallogicofisico/ModelagemLogica.png)
 
 **Modelo físico**
-![Modelo físico](modelos/modelo_fisico.png)
+![Modelo físico](modelosconceituallogicofisico/ModelagemFisica.png)
 
 ## Principais análises
 - **KPIs gerais:** total de inscrições, receita, ticket médio e receita por aluno
