@@ -1,3 +1,11 @@
+-- Projeto: ProjetoUniversidade
+
+
+-- Autor: Raphael Kumbrevicius
+-- Descrição: criação do banco, carga de dados fictícios e consultas de negócio
+-- Banco: MySQL 
+
+
 # Criar o banco de dados, comando DDL, Data Definition Language
 CREATE DATABASE `ProjetoUniversidade`;
 
@@ -312,7 +320,7 @@ SELECT * FROM disciplina AS d INNER JOIN professor AS p ON (p.pk_professor = d.f
 
 
 # Criar usuário no MySQL, comando DDL, Data Definition Language
-CREATE USER 'analista'@'localhost' IDENTIFIED BY 'Senha4321'
+CREATE USER 'analista'@'localhost' IDENTIFIED BY 'SUA_SENHA_AQUI';
 
 
 # Conceder privilégios, permitir somente leitura no banco do projeto
