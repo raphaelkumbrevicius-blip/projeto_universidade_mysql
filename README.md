@@ -24,7 +24,7 @@ Demonstrar o ciclo completo de um projeto de dados: modelagem conceitual, lógic
                        Modelo Físico
 ![Modelo físico](modelosconceituallogicofisico/ModelagemFisica.png)
 
-## Principais análises
+## Principais Análises
 - **KPIs gerais:** total de inscrições, receita, ticket médio e receita por aluno
 - **Desempenho por curso:** receita e participação de cada curso no faturamento
 - **Clientes de maior valor:** top 5 alunos por investimento
@@ -32,13 +32,13 @@ Demonstrar o ciclo completo de um projeto de dados: modelagem conceitual, lógic
 
 Os resultados e insights completos estão no script (`sql/projeto_universidade.sql`).
 
-## Como executar
+## Como Executar
 1. Clone o repositório
 2. Abra o arquivo `sql/projeto_universidade.sql` no MySQL Workbench
 3. Substitua `SUA_SENHA_AQUI` por uma senha de sua escolha
 4. Execute o script completo
 
-## Estrutura do repositório
+## Estrutura do Repositório
 ```
 ├── sql/        Script de criação, dados e consultas
 ├── modelos/    Modelos conceitual, lógico e físico
@@ -46,5 +46,5 @@ Os resultados e insights completos estão no script (`sql/projeto_universidade.s
 ```
 
 ## Autor
-**Raphael** · [LinkedIn](https://www.linkedin.com/in/raphael-kumbrevicius-b714a389/) · [E-mail](rapha_kumbrevicius@hotmail.com)
+**Raphael** · [LinkedIn](https://www.linkedin.com/in/raphael-kumbrevicius-b714a389/) 
 
