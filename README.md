@@ -15,13 +15,13 @@ Demonstrar o ciclo completo de um projeto de dados: modelagem conceitual, lógic
 
 ## Modelo de dados
 
-**Modelo conceitual**
+
 ![Modelo conceitual](modelosconceituallogicofisico/ModelagemConceitual.png)
 
-**Modelo logico**
+
 ![Modelo logico](modelosconceituallogicofisico/ModelagemLogica.png)
 
-**Modelo físico**
+
 ![Modelo físico](modelosconceituallogicofisico/ModelagemFisica.png)
 
 ## Principais análises
